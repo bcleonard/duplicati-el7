@@ -1,2 +1,4 @@
 # duplicati-el7
-Files to create a duplicati rpm
+
+Files necessary to build a duplicait rpm for el7
+
